@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head >
+    <meta charset="utf-8" />
+    <title>AngularNancySample</title>
+
+	<style type="text/css">
+
+		body {
+			text-align: center;
+		}
+
+	</style>
+
+</head>
+<body ng-app>
+	<img src="@Path['~/Content/nancy-logo.png']" alt="Nancy logo" /><br />
+This view was rendered using the SuperSimpleViewEngine
+<div>Angular says 1+2 is {{ 1 + 2 }} </div>
+    <script type="text/javascript" src="content/angular/angular.js"></script>
+</body>
+</html>

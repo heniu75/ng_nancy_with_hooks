@@ -1,1 +1,1 @@
-# ng_nancy_with_hooks
+# angular_nancy_sample
